@@ -1,9 +1,13 @@
-h1 {
+.bodyStyle h1 {
 	font-size: 4.5rem;
 	margin-top: 5px;
-	color: #EEEEEE;
+  color: #EEEEEE;
+  text-shadow: 3px 3px #6bcebd;
 }
-html,body {
+
+.bodyStyle html,body {
+  padding-top: 12em;
+  text-align: center;
   width: 100%;
   height: 100%;
   background: #1D1E25;
