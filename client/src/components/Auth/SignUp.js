@@ -19,10 +19,10 @@ const SignUp = () => {
                     <input type="password" name="" required="" />
                     <label>Password</label>
                 </div>
-                <div className="box">
+                <div className="box new-size">
 			        <a href="#" className="btn btn-white btn-animation-1">Register</a> 
 			    </div>
-			    <div className="box">
+			    <div className="box new-size">
 			        <a href="#" className="btn btn-white btn-animation-1">Switch to Login</a> 
 			    </div>
             </form>

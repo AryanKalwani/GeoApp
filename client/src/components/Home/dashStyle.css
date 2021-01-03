@@ -1,0 +1,40 @@
+.topnav {
+    overflow: hidden;
+    background-color: rgb(16, 6, 41);
+    position: relative;
+}
+
+.nodis {
+    display: none;
+}
+
+.dis {
+    display: block;
+}
+
+.topnav a {
+    color: white;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    display: block;
+    text-shadow: 0.5px 0.5px #6bcebd;
+}
+
+.topnav button.icon {
+    display: block;
+    position: absolute;
+    padding: 14px 16px;
+    left: 0;
+    top: 0;
+}
+
+.topnav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+.active {
+    background-color:rgb(16, 6, 41);
+    color: white;
+}
